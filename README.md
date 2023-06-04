@@ -5,7 +5,18 @@ Este projeto de Análise Exploratória de Dados (EDA) tem como objetivo investig
 ## Dados
 
 Os dados utilizados neste projeto serão obtidos do Banco Internacional de Filmes (IMDB), como bases de dados públicas. A coleta e organização dos dados serão realizadas de forma a permitir a análise adequada das relações entre os conflitos armados e os filmes produzidos.
-link: https://datasets.imdbws.com
+IMDB dataset: https://datasets.imdbws.com
+Ataques a Embaixada dos EUA: https://www.fbi.gov/history/famous-cases/east-african-embassy-bombings
+Ataque 11/09: https://www.9-11commission.gov/report/911Report.pdf
+Setenciamento de Saddam Hussein: https://edition.cnn.com/2013/10/30/world/meast/saddam-hussein-trial-fast-facts/index.html
+Guerra Afeganistão: https://www.cfr.org/timeline/us-war-afghanistan
+Crise na Crimeia: https://www.hrw.org/report/2014/11/17/rights-retreat/abuses-crimea
+Conflito na Faixa de Gaza: https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/CoIGaza/A-HRC-29-52_en.doc
+Refugiados: https://www.acnur.org/portugues/2018/06/19/mais-de-68-milhoes-de-pessoas-deslocadas-em-2017-e-essencial-um-novo-acordo-global-sobre-refugiados/
+Atentados na Europa: https://www.europol.europa.eu/media-press/newsroom/news/2017-eu-terrorism-report-142-failed-foiled-and-completed-attacks-1002-arrests-and-142-victims-died
+
+
+
 
 ## Etapas do Projeto
 
