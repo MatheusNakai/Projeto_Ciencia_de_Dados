@@ -1,6 +1,7 @@
 # Análise Exploratória de Dados (EDA): Impactos dos Conflitos Armados nos Cinemas
 
-Este projeto de Análise Exploratória de Dados (EDA) tem como objetivo investigar os impactos dos conflitos armados na indústria cinematográfica. Serão explorados diferentes aspectos, como produção de filmes, influências nas temáticas abordadas, recepção do público e mudanças nas narrativas. A análise será realizada utilizando técnicas de EDA e visualização de dados.
+Este projeto de Análise Exploratória de Dados (EDA) tem como objetivo investigar os impactos dos conflitos armados na indústria cinematográfica. Serão explorados diferentes aspectos, como produção de filmes, influências nas temáticas abordadas, recepção do público e mudanças nas narrativas. A análise será realizada utilizando técnicas de EDA e visualização de dados.<p><p>
+Link para o EDA: https://colab.research.google.com/drive/1-0r4Hx_z3RBnCUkhndsS02eVHvU1SKr2?usp=sharing
 
 ## Dados
 
