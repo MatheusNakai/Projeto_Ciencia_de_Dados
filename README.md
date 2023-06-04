@@ -5,7 +5,7 @@ Link para o Collab:<a href="https://colab.research.google.com/drive/1-0r4Hx_z3RB
 
 ## Dados
 
-Os dados utilizados neste projeto serão obtidos do Banco Internacional de Filmes (IMDB), como bases de dados públicas. A coleta e organização dos dados serão realizadas de forma a permitir a análise adequada das relações entre os conflitos armados e os filmes produzidos.
+Os dados utilizados neste projeto serão obtidos do Banco Internacional de Filmes (IMDB), como bases de dados públicas. A coleta e organização dos dados serão realizadas de forma a permitir a análise adequada das relações entre os conflitos armados e os filmes produzidos.<p>
 <a href= "https://datasets.imdbws.com">IMDB dataset <p>
 <a href="https://www.fbi.gov/history/famous-cases/east-african-embassy-bombings">Ataques a Embaixada dos EUA<p>
 <a href="https://www.9-11commission.gov/report/911Report.pdf">Ataque 11/09 <p>
