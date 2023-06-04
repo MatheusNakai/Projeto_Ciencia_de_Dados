@@ -6,15 +6,15 @@ Link para o Collab:<a href="https://colab.research.google.com/drive/1-0r4Hx_z3RB
 ## Dados
 
 Os dados utilizados neste projeto serão obtidos do Banco Internacional de Filmes (IMDB), como bases de dados públicas. A coleta e organização dos dados serão realizadas de forma a permitir a análise adequada das relações entre os conflitos armados e os filmes produzidos.
-IMDB dataset: https://datasets.imdbws.com <p>
-Ataques a Embaixada dos EUA: https://www.fbi.gov/history/famous-cases/east-african-embassy-bombings <p>
-Ataque 11/09: https://www.9-11commission.gov/report/911Report.pdf <p>
-Setenciamento de Saddam Hussein: https://edition.cnn.com/2013/10/30/world/meast/saddam-hussein-trial-fast-facts/index.html <p>
-Guerra Afeganistão: https://www.cfr.org/timeline/us-war-afghanistan <p>
-Crise na Crimeia: https://www.hrw.org/report/2014/11/17/rights-retreat/abuses-crimea <p>
-Conflito na Faixa de Gaza: https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/CoIGaza/A-HRC-29-52_en.doc <p>
-Refugiados: https://www.acnur.org/portugues/2018/06/19/mais-de-68-milhoes-de-pessoas-deslocadas-em-2017-e-essencial-um-novo-acordo-global-sobre-refugiados/ <p>
-Atentados na Europa: https://www.europol.europa.eu/media-press/newsroom/news/2017-eu-terrorism-report-142-failed-foiled-and-completed-attacks-1002-arrests-and-142-victims-died <p>
+<a href= "https://datasets.imdbws.com">IMDB dataset <p>
+<a href="https://www.fbi.gov/history/famous-cases/east-african-embassy-bombings">Ataques a Embaixada dos EUA<p>
+<a href="https://www.9-11commission.gov/report/911Report.pdf">Ataque 11/09 <p>
+<a href="https://edition.cnn.com/2013/10/30/world/meast/saddam-hussein-trial-fast-facts/index.html <p>
+Guerra Afeganistão: https://www.cfr.org/timeline/us-war-afghanistan">Setenciamento de Saddam Hussein <p>
+<a href="https://www.hrw.org/report/2014/11/17/rights-retreat/abuses-crimea">Crise na Crimeia <p>
+<a href="https://www.ohchr.org/sites/default/files/Documents/HRBodies/HRCouncil/CoIGaza/A-HRC-29-52_en.doc">Conflito na Faixa de Gaza <p>
+<a href="https://www.acnur.org/portugues/2018/06/19/mais-de-68-milhoes-de-pessoas-deslocadas-em-2017-e-essencial-um-novo-acordo-global-sobre-refugiados/">Refugiados <p>
+<a href="https://www.europol.europa.eu/media-press/newsroom/news/2017-eu-terrorism-report-142-failed-foiled-and-completed-attacks-1002-arrests-and-142-victims-died">Atentados na Europa <p>
 
 
 
