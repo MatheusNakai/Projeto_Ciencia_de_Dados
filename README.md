@@ -3,6 +3,9 @@
 Este projeto de Análise Exploratória de Dados (EDA) tem como objetivo investigar os impactos dos conflitos armados na indústria cinematográfica. Serão explorados diferentes aspectos, como produção de filmes, influências nas temáticas abordadas, recepção do público e mudanças nas narrativas. A análise será realizada utilizando técnicas de EDA e visualização de dados.<p><p>
 Link para o Collab:<a href="https://colab.research.google.com/drive/1-0r4Hx_z3RBnCUkhndsS02eVHvU1SKr2?usp=sharing"> EDA
 
+## Participantes
+19.00331-5 Bruno Vilardi Bueno<p>
+19.01355-8 Matheus Takahashi Nakai
 ## Dados
 
 Os dados utilizados neste projeto serão obtidos do Banco Internacional de Filmes (IMDB), como bases de dados públicas. A coleta e organização dos dados serão realizadas de forma a permitir a análise adequada das relações entre os conflitos armados e os filmes produzidos.<p>
