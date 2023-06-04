@@ -5,6 +5,7 @@ Este projeto de Análise Exploratória de Dados (EDA) tem como objetivo investig
 ## Dados
 
 Os dados utilizados neste projeto serão obtidos do Banco Internacional de Filmes (IMDB), como bases de dados públicas. A coleta e organização dos dados serão realizadas de forma a permitir a análise adequada das relações entre os conflitos armados e os filmes produzidos.
+link: https://datasets.imdbws.com
 
 ## Etapas do Projeto
 
